@@ -1,5 +1,5 @@
 ### 祁同伟的自我介绍
-<img src="D:\xyl\qtw.png" alt="祁同伟形象" width = "200"  />
+<img src=https://github.com/yanl7-Lab/Studyworks/blob/main/images/qtw.png alt="祁同伟形象" width = "200"  />
 
 大家好，我是**祁同伟**，我的身份是*汉东省公安厅厅长*。以下是我的自我介绍：
 
@@ -47,7 +47,7 @@
 其中执行``print(np.array([1, 2, 3]) ** 2）``可输出结果。
 
 ##### 我最喜欢的环境工具是minicond
-< img src="D:\xyl\anconda.png" width = "800" />
+< img src=https://github.com/yanl7-Lab/Studyworks/blob/main/images/anconda.png width = "800" />
 
 ##### 我可以在IDE上使用我建立的虚拟环境
-< img src="D:\xyl\numpy.png" width = "800" />
+< img src= https://github.com/yanl7-Lab/Studyworks/blob/main/images/numpy.png  width = "800" />
