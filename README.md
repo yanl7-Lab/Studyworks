@@ -47,7 +47,7 @@
 其中执行``print(np.array([1, 2, 3]) ** 2）``可输出结果。
 
 ##### 我最喜欢的环境工具是minicond
-< img src=https://github.com/yanl7-Lab/Studyworks/blob/main/images/anconda.png width = "800" />
+<img src=https://github.com/yanl7-Lab/Studyworks/blob/main/images/anconda.png width = "800" />
 
 ##### 我可以在IDE上使用我建立的虚拟环境
-< img src= https://github.com/yanl7-Lab/Studyworks/blob/main/images/numpy.png  width = "800" />
+<img src= https://github.com/yanl7-Lab/Studyworks/blob/main/images/numpy.png  width = "800" />
